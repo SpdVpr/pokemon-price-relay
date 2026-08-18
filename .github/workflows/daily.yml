@@ -1,0 +1,38 @@
+name: daily-feed
+
+on:
+  schedule:
+    - cron: '20 9 * * *'    # 09:20 UTC daily (after the provider's own daily update cycle)
+  workflow_dispatch: {}      # manual run button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-feed
+  cancel-in-progress: false
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350     # PSA backfill days run long; steady state ~40 min
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch prices and build feed
+        env:
+          POKEPRICE_API_KEY: ${{ secrets.POKEPRICE_API_KEY }}
+        run: node src/fetch-feed.mjs
+
+      - name: Commit feed + history
+        run: |
+          git config user.name "price-relay-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add feed history catalog
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "feed: $(date -u +%F)"
+          git push
