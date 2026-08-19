@@ -1,5 +1,5 @@
 // PokemonPriceTracker API client — throttled, retrying, credit-guarded.
-// Rules learned in Phase 0 (see etsy-shop/research/pokemon-tracker-phase0-api-test.md):
+// Rules learned in Phase 0 (see etsy-shop/products/pokemon-tracker/research/pokemon-tracker-phase0-api-test.md):
 //  - ALWAYS pass explicit limit (default is 50 and you are billed by limit, not results)
 //  - 429 can mean "out of daily credits", not just rate limit
 //  - sealed filter works via numeric setId=, NOT the set= slug

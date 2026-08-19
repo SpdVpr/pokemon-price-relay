@@ -1,9 +1,18 @@
 name: daily-feed
 
+# TIMING IS THE WHOLE GAME HERE.
+# The provider refreshes its own catalog once a day, and it lands between roughly
+# 12:00 and 12:20 UTC (measured 2026-08-18: all 217 sets moved 12:01-12:17 UTC; every
+# run's log prints "provider catalog last refreshed" so this stays checkable).
+# The original 09:20 UTC schedule sat ~3 hours IN FRONT of that, so every run faithfully
+# fetched the previous day's prices: green builds, frozen feed, byte-identical CSVs.
+# Anything scheduled here must stay comfortably behind that window - and GitHub itself
+# adds an unpredictable 0-40 min queue delay on top, so leave an hour of headroom.
 on:
   schedule:
-    - cron: '20 9 * * *'    # 09:20 UTC daily (after the provider's own daily update cycle)
-  workflow_dispatch: {}      # manual run button
+    - cron: '30 13 * * *'   # 13:30 UTC primary run (~70+ min after the provider sweep)
+    - cron: '30 17 * * *'   # 17:30 UTC safety net; exits free if the 13:30 run succeeded
+  workflow_dispatch: {}     # manual run button
 
 permissions:
   contents: write
@@ -23,10 +32,14 @@ jobs:
         with:
           node-version: 20
 
+      # The 17:30 run passes --skip-if-fresh: if the feed already carries today's prices
+      # it exits immediately and spends no API credits. It only works when the earlier
+      # run failed or the provider was late.
       - name: Fetch prices and build feed
         env:
           POKEPRICE_API_KEY: ${{ secrets.POKEPRICE_API_KEY }}
-        run: node src/fetch-feed.mjs
+          SKIP_FLAG: ${{ github.event.schedule == '30 17 * * *' && '--skip-if-fresh' || '' }}
+        run: node src/fetch-feed.mjs $SKIP_FLAG
 
       - name: Commit feed + history
         run: |
@@ -36,3 +49,9 @@ jobs:
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "feed: $(date -u +%F)"
           git push
+
+      # Deliberately last: the data is safely committed before this can fail the run.
+      # A red build here means "the job worked but the prices are stale" - which is the
+      # failure mode that otherwise goes unnoticed until a buyer complains.
+      - name: Fail if prices are stale
+        run: node src/check-freshness.mjs

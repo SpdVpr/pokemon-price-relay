@@ -32,6 +32,12 @@ function saveJson(p, v) { writeFileSync(p, JSON.stringify(v, null, 1), 'utf8'); 
 async function refreshSets() {
   const j = await api('/sets', { limit: 250 });
   saveJson(join(CATALOG, 'sets.json'), j);
+  // Free freshness signal: every set carries the provider's own updatedAt, and they all
+  // move together when it runs its daily sweep. Logging the newest one tells us, in every
+  // run's log, what time of day the upstream data actually lands - which is what the cron
+  // has to sit behind. (Measured 2026-08-18: the whole catalog moved 12:01-12:17 UTC.)
+  const newest = j.data.map(s => s.updatedAt).filter(Boolean).sort().pop();
+  console.log(`provider catalog last refreshed: ${newest ?? 'unknown'}`);
   return j.data;
 }
 
@@ -128,6 +134,18 @@ async function steadyPsaRefresh(store) {
 
 // ---------------------------------------------------------------- main
 
+// Safety-net mode for the second scheduled run of the day: if the first run already
+// brought today's prices home, this costs zero credits and exits. It only does real
+// work when the earlier run failed or the provider was late.
+if (process.argv.includes('--skip-if-fresh')) {
+  const meta = loadJson(join(FEED, 'meta.json'), null);
+  if (meta?.pricesAsOf === TODAY) {
+    console.log(`skip: feed already carries today's prices (pricesAsOf=${meta.pricesAsOf})`);
+    process.exit(0);
+  }
+  console.log(`safety run: pricesAsOf=${meta?.pricesAsOf ?? 'none'}, today=${TODAY} -> fetching`);
+}
+
 const sets = await refreshSets();
 console.log(`sets: ${sets.length}, credits left ${creditsRemaining()}`);
 
@@ -150,9 +168,14 @@ const psaFiles = writeChunked(FEED, 'psa',
 mkdirSync(join(HISTORY, TODAY), { recursive: true });
 cpSync(FEED, join(HISTORY, TODAY), { recursive: true });
 
+// The date the PRICES carry, not the date we ran. These differ whenever the run happens
+// before the provider's sweep, and that gap is exactly what made the sheet look frozen.
+const pricesAsOf = sealedRows.reduce((max, r) => (r.updated > max ? r.updated : max), '');
+
 saveJson(join(CATALOG, 'state.json'), state);
 saveJson(join(FEED, 'meta.json'), {
   date: TODAY,
+  pricesAsOf,
   sealed: sealedRows.length,
   psaCards: store.size,
   backfillComplete,
@@ -160,4 +183,4 @@ saveJson(join(FEED, 'meta.json'), {
   creditsRemaining: creditsRemaining(),
   source: 'PokemonPriceTracker API — TCGPlayer market (sealed/raw), eBay sale medians (graded). US market, USD.',
 });
-console.log(`DONE sealed=${sealedRows.length} psa=${store.size} backfillComplete=${backfillComplete} credits left ${creditsRemaining()}`);
+console.log(`DONE sealed=${sealedRows.length} psa=${store.size} pricesAsOf=${pricesAsOf} (ran ${TODAY}) backfillComplete=${backfillComplete} credits left ${creditsRemaining()}`);
