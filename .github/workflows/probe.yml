@@ -1,0 +1,32 @@
+name: freshness-probe
+
+# Measures WHEN the provider re-scrapes sealed prices, so the daily job can be scheduled on
+# evidence instead of guesswork. Two guesses were already wrong (see README). One run costs
+# ~5 API credits against a 20k/day allowance, so sampling every hour is free in practice.
+#
+# Read-only on purpose: no writes, no commits, nothing that can collide with daily-feed.
+# The answer lives in each run's log line:
+#   PROBE <utc> | set=... | newest lastScrapedAt=<date>
+#
+# Once the refresh window is known, pin daily.yml to it and delete this workflow.
+on:
+  schedule:
+    - cron: '5 * * * *'     # every hour at :05 (GitHub adds its own queue delay on top)
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Probe provider freshness
+        env:
+          POKEPRICE_API_KEY: ${{ secrets.POKEPRICE_API_KEY }}
+        run: node src/probe-freshness.mjs
