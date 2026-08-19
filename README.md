@@ -15,12 +15,23 @@ pořád přinesl ceny z 18. 8.
 
 Co je změřené:
 
-| kdy | max `lastScrapedAt` u sealed |
+| kdy jsme se ptali | nejnovější `lastScrapedAt` u sealed |
 |---|---|
-| 18. 8., 19:34 UTC | 2026-08-18 (2 109 z 2 322 produktů z téhož dne) |
-| 19. 8., 14:36 UTC | 2026-08-18 |
+| 18. 8., 19:34 UTC | **2026-08-18T12:16Z** (2 109 z 2 322 produktů z téhož dne) |
+| 19. 8., 14:36 UTC | 2026-08-18T12:16Z |
+| 19. 8., 18:15 UTC | 2026-08-18T12:16Z |
+| 19. 8., 18:20 UTC (sonda) | 2026-08-18T12:16Z |
 
-→ Scrape cen padá **později než 14:36 UTC**, nebo není spolehlivě denní. Zatím neuzavřeno.
+→ **18. 8. poskytovatel ceny scrapnul ve 12:16 UTC. 19. 8. je vůbec nescrapnul** — jen osahal
+katalog (12:01). Buď ten den vynechal, nebo sealed ceny nejezdí denně.
+
+Naplánovaný cron na 13:30 UTC tedy sedí ~70 minut za scrapem z 18. 8. — pokud poskytovatel
+scrapuje denně kolem 12:15, je načasování správně. Ověřit to šlo až v den, kdy scrape opravdu
+proběhne; 19. 8. se to prokázat nedalo, protože nahoře se nic nehnulo.
+
+**Odpověď přinese `freshness-probe`** — běží každou hodinu za ~5 kreditů a loguje přesný
+`lastScrapedAt`. Jestli zítra kolem 12:20 UTC skočí na 2026-08-20, je to denní cyklus a jsme
+hotoví. Jestli zůstane stát, sealed ceny se denně neobnovují.
 
 - Naplánováno **13:30 UTC** (hlavní) a **17:30 UTC** (záchranná síť). `--skip-if-fresh` u té
   druhé stojí nula kreditů, když hlavní běh přinesl dnešní ceny — a když ne, udělá plný fetch,
