@@ -2,6 +2,25 @@
 
 Denní cenový relay pro CARDFOLIO (Pokémon Investment Portfolio Tracker). Stahuje ceny z PokemonPriceTracker API a publikuje statické CSV feedy, které konzumuje Google Sheets produkt (`IMPORTDATA`) a později HTML app.
 
+## ⏰ Načasování je tady to nejdůležitější
+
+**Poskytovatel obnovuje svůj katalog jednou denně mezi ~12:00 a 12:20 UTC.** Cokoli, co
+poběží dřív, stáhne včerejší ceny — a nijak se to neprojeví jako chyba: job doběhne zeleně,
+jen data budou stejná jako včera.
+
+Přesně to se stalo 19. 8. 2026: cron byl na 09:20 UTC, běh prošel, commitnul — a `sealed.csv`
+vyšel **bajt po bajtu shodný** s předchozím dnem. V tabulce se proto stamp „Prices last
+updated" nikdy nepohnul.
+
+- Naplánováno je teď **13:30 UTC** (hlavní) a **17:30 UTC** (záchranná síť, s `--skip-if-fresh`
+  stojí nula kreditů, když hlavní běh uspěl).
+- GitHub k tomu přidává nepředvídatelné **zpoždění fronty 0–40 min** — proto ta hodinová rezerva.
+- Každý běh loguje `provider catalog last refreshed: …`, takže se dá kdykoli ověřit, jestli
+  se okno poskytovatele neposunulo.
+- `meta.json` rozlišuje **`date`** (kdy jsme běželi) a **`pricesAsOf`** (jaké datum nesou ceny).
+  Když se rozejdou o 2+ dny, `src/check-freshness.mjs` shodí workflow → přijde e-mail.
+  Zelený build tedy znamená, že se ceny opravdu hýbou.
+
 ## Jak to funguje
 
 - **Sealed**: každý den kompletně všechny sety (probe `setId` → exact fetch). ~2 600 kreditů.
