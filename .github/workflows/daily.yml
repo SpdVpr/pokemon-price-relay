@@ -41,6 +41,11 @@ jobs:
           SKIP_FLAG: ${{ github.event.schedule == '30 17 * * *' && '--skip-if-fresh' || '' }}
         run: node src/fetch-feed.mjs $SKIP_FLAG
 
+      # A plain `git push` throws away the whole run if anything landed on main while the
+      # job was fetching - which takes ~30 minutes, so one code push during that window is
+      # enough. Seen for real on 2026-08-19: rejected non-fast-forward, 28 minutes of data
+      # dropped. Rebase and retry instead. Feed runs never race each other (see concurrency
+      # above), so the only thing to rebase onto is human work in other files.
       - name: Commit feed + history
         run: |
           git config user.name "price-relay-bot"
@@ -48,7 +53,13 @@ jobs:
           git add feed history catalog
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "feed: $(date -u +%F)"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "push rejected (attempt $attempt) - rebasing onto origin/main"
+            git pull --rebase origin main
+          done
+          echo "could not push after 3 attempts"
+          exit 1
 
       # Deliberately last: the data is safely committed before this can fail the run.
       # A red build here means "the job worked but the prices are stale" - which is the
