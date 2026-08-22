@@ -1,5 +1,5 @@
 {
- "date": "2026-08-22",
+ "date": "2026-08-21",
  "pricesAsOf": "2026-08-21",
  "sealed": 2324,
  "psaCards": 1456,
@@ -8,6 +8,6 @@
   "sealed.csv",
   "psa.csv"
  ],
- "creditsRemaining": 16288,
+ "creditsRemaining": 16281,
  "source": "PokemonPriceTracker API — TCGPlayer market (sealed/raw), eBay sale medians (graded). US market, USD."
 }
