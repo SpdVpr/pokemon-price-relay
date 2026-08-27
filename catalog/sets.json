@@ -17,7 +17,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24831ME06DeltaReign.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24831ME06DeltaReign.png",
    "createdAt": "2026-08-21T12:00:18.142Z",
-   "updatedAt": "2026-08-25T18:19:36.429Z"
+   "updatedAt": "2026-08-27T12:00:18.862Z"
   },
   {
    "id": "6a23994ceef6d8fe7e225ca5",
@@ -36,7 +36,26 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24722ME30THCelebration.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24722ME30THCelebration.png",
    "createdAt": "2026-06-06T03:51:40.205Z",
-   "updatedAt": "2026-08-25T18:29:27.837Z"
+   "updatedAt": "2026-08-27T12:10:54.542Z"
+  },
+  {
+   "id": "6a9026d23fcba329fff2639e",
+   "tcgPlayerId": "me-30th-celebration-classic-collection",
+   "tcgPlayerNumericId": 24837,
+   "name": "ME: 30th Celebration Classic Collection",
+   "series": "Mega Evolutions",
+   "releaseDate": "2026-09-16T00:00:00.000Z",
+   "cardCount": 0,
+   "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=ME%3A%2030th%20Celebration%20Classic%20Collection",
+   "hasPriceGuide": true,
+   "noPriceGuideReason": null,
+   "imageCdnUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24837ME30THCelebrationClassicCollection.png",
+   "imageCdnUrl200": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24837ME30THCelebrationClassicCollection.png",
+   "imageCdnUrl400": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24837ME30THCelebrationClassicCollection.png",
+   "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24837ME30THCelebrationClassicCollection.png",
+   "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24837ME30THCelebrationClassicCollection.png",
+   "createdAt": "2026-08-27T12:00:18.296Z",
+   "updatedAt": "2026-08-27T12:10:52.797Z"
   },
   {
    "id": "69f562ee6222edcca357f0fc",
@@ -55,7 +74,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24688ME05PitchBlack.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24688ME05PitchBlack.png",
    "createdAt": "2026-05-02T02:35:26.124Z",
-   "updatedAt": "2026-08-25T18:29:26.570Z"
+   "updatedAt": "2026-08-27T12:10:53.662Z"
   },
   {
    "id": "69b9b10516ba1587d25ef232",
@@ -74,7 +93,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24655ME04ChaosRising.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24655ME04ChaosRising.png",
    "createdAt": "2026-03-17T19:52:37.045Z",
-   "updatedAt": "2026-08-25T18:29:26.573Z"
+   "updatedAt": "2026-08-27T12:10:53.667Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e9",
@@ -93,7 +112,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24584FirstPartnerCollection2026.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24584FirstPartnerCollection2026.png",
    "createdAt": "2026-01-19T14:16:09.536Z",
-   "updatedAt": "2026-08-25T18:29:26.037Z"
+   "updatedAt": "2026-08-27T12:10:53.168Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568ea",
@@ -112,7 +131,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24587ME03PerfectOrder.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24587ME03PerfectOrder.png",
    "createdAt": "2026-01-19T14:16:09.599Z",
-   "updatedAt": "2026-08-25T18:29:26.584Z"
+   "updatedAt": "2026-08-27T12:10:53.630Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e8",
@@ -131,7 +150,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24541MEAscendedHeroes.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24541MEAscendedHeroes.png",
    "createdAt": "2026-01-19T14:16:09.470Z",
-   "updatedAt": "2026-08-25T18:29:28.073Z"
+   "updatedAt": "2026-08-27T12:10:54.381Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e7",
@@ -150,7 +169,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24529PlayerPlacementTrainerPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24529PlayerPlacementTrainerPromos.png",
    "createdAt": "2026-01-19T14:16:09.412Z",
-   "updatedAt": "2026-08-25T18:19:36.399Z"
+   "updatedAt": "2026-08-27T12:00:18.831Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e3",
@@ -169,7 +188,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24448ME02PhantasmalFlames.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24448ME02PhantasmalFlames.png",
    "createdAt": "2026-01-19T14:16:09.172Z",
-   "updatedAt": "2026-08-25T18:29:26.731Z"
+   "updatedAt": "2026-08-27T12:10:53.737Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e1",
@@ -188,7 +207,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24380ME01MegaEvolution.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24380ME01MegaEvolution.png",
    "createdAt": "2026-01-19T14:16:09.051Z",
-   "updatedAt": "2026-08-25T18:29:27.564Z"
+   "updatedAt": "2026-08-27T12:10:54.190Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e4",
@@ -197,7 +216,7 @@
    "name": "ME: Mega Evolution Promo",
    "series": "Mega Evolutions",
    "releaseDate": "2025-09-26T00:00:00.000Z",
-   "cardCount": 120,
+   "cardCount": 138,
    "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=ME%3A%20Mega%20Evolution%20Promo",
    "hasPriceGuide": true,
    "noPriceGuideReason": null,
@@ -207,7 +226,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24451MEMegaEvolutionPromo.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24451MEMegaEvolutionPromo.png",
    "createdAt": "2026-01-19T14:16:09.233Z",
-   "updatedAt": "2026-08-25T18:19:42.634Z"
+   "updatedAt": "2026-08-27T12:00:26.086Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e5",
@@ -226,7 +245,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24461MEEMegaEvolutionEnergies.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24461MEEMegaEvolutionEnergies.png",
    "createdAt": "2026-01-19T14:16:09.292Z",
-   "updatedAt": "2026-08-25T18:19:37.104Z"
+   "updatedAt": "2026-08-27T12:00:19.670Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568df",
@@ -245,7 +264,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24325SVBlackBolt.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24325SVBlackBolt.png",
    "createdAt": "2026-01-19T14:16:08.933Z",
-   "updatedAt": "2026-08-25T18:29:27.367Z"
+   "updatedAt": "2026-08-27T12:10:53.854Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568e0",
@@ -264,7 +283,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24326SVWhiteFlare.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24326SVWhiteFlare.png",
    "createdAt": "2026-01-19T14:16:08.994Z",
-   "updatedAt": "2026-08-25T18:29:26.197Z"
+   "updatedAt": "2026-08-27T12:10:53.339Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568de",
@@ -283,7 +302,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24269SV10DestinedRivals.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24269SV10DestinedRivals.png",
    "createdAt": "2026-01-19T14:16:08.869Z",
-   "updatedAt": "2026-08-25T18:29:27.486Z"
+   "updatedAt": "2026-08-27T12:10:54.227Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568dc",
@@ -302,7 +321,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24073SV09JourneyTogether.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24073SV09JourneyTogether.png",
    "createdAt": "2026-01-19T14:16:08.743Z",
-   "updatedAt": "2026-08-25T18:29:28.051Z"
+   "updatedAt": "2026-08-27T12:10:54.478Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568dd",
@@ -321,7 +340,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24163McdonaldsPromos2024.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24163McdonaldsPromos2024.png",
    "createdAt": "2026-01-19T14:16:08.808Z",
-   "updatedAt": "2026-08-25T18:29:26.776Z"
+   "updatedAt": "2026-08-27T12:10:53.738Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568db",
@@ -340,7 +359,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23821SVPrismaticEvolutions.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23821SVPrismaticEvolutions.png",
    "createdAt": "2026-01-19T14:16:08.681Z",
-   "updatedAt": "2026-08-25T18:29:28.606Z"
+   "updatedAt": "2026-08-27T12:10:55.316Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568da",
@@ -359,7 +378,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23651SV08SurgingSparks.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23651SV08SurgingSparks.png",
    "createdAt": "2026-01-19T14:16:08.621Z",
-   "updatedAt": "2026-08-25T18:29:28.181Z"
+   "updatedAt": "2026-08-27T12:10:54.725Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d8",
@@ -378,7 +397,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23537SV07StellarCrown.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23537SV07StellarCrown.png",
    "createdAt": "2026-01-19T14:16:08.504Z",
-   "updatedAt": "2026-08-25T18:29:28.170Z"
+   "updatedAt": "2026-08-27T12:10:54.708Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d9",
@@ -397,7 +416,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23561TrickOrTradeBoosterBundle2024.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23561TrickOrTradeBoosterBundle2024.png",
    "createdAt": "2026-01-19T14:16:08.563Z",
-   "updatedAt": "2026-08-25T18:29:27.619Z"
+   "updatedAt": "2026-08-27T12:10:54.024Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d7",
@@ -416,7 +435,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23529SVShroudedFable.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23529SVShroudedFable.png",
    "createdAt": "2026-01-19T14:16:08.443Z",
-   "updatedAt": "2026-08-25T18:29:28.360Z"
+   "updatedAt": "2026-08-27T12:10:54.763Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d6",
@@ -435,7 +454,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23520BattleAcademy2024.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23520BattleAcademy2024.png",
    "createdAt": "2026-01-19T14:16:08.379Z",
-   "updatedAt": "2026-08-25T18:29:27.646Z"
+   "updatedAt": "2026-08-27T12:10:54.139Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d5",
@@ -454,7 +473,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23473SV06TwilightMasquerade.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23473SV06TwilightMasquerade.png",
    "createdAt": "2026-01-19T14:16:08.320Z",
-   "updatedAt": "2026-08-25T18:29:28.665Z"
+   "updatedAt": "2026-08-27T12:10:55.216Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d4",
@@ -473,7 +492,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23381SV05TemporalForces.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23381SV05TemporalForces.png",
    "createdAt": "2026-01-19T14:16:08.261Z",
-   "updatedAt": "2026-08-25T18:29:28.887Z"
+   "updatedAt": "2026-08-27T12:10:55.299Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d3",
@@ -492,7 +511,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23353SVPaldeanFates.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23353SVPaldeanFates.png",
    "createdAt": "2026-01-19T14:16:08.201Z",
-   "updatedAt": "2026-08-25T18:29:29.232Z"
+   "updatedAt": "2026-08-27T12:10:55.684Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d1",
@@ -511,7 +530,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23323TradingCardGameClassic.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23323TradingCardGameClassic.png",
    "createdAt": "2026-01-19T14:16:08.069Z",
-   "updatedAt": "2026-08-25T18:29:27.957Z"
+   "updatedAt": "2026-08-27T12:10:54.497Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568cf",
@@ -530,7 +549,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23286SV04ParadoxRift.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23286SV04ParadoxRift.png",
    "createdAt": "2026-01-19T14:16:07.956Z",
-   "updatedAt": "2026-08-25T18:29:29.235Z"
+   "updatedAt": "2026-08-27T12:10:55.677Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d2",
@@ -549,7 +568,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23330MYFirstBattle.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23330MYFirstBattle.png",
    "createdAt": "2026-01-19T14:16:08.137Z",
-   "updatedAt": "2026-08-25T18:29:28.206Z"
+   "updatedAt": "2026-08-27T12:10:54.663Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568cd",
@@ -568,7 +587,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23237SVScarletAndViolet151.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23237SVScarletAndViolet151.png",
    "createdAt": "2026-01-19T14:16:07.838Z",
-   "updatedAt": "2026-08-25T18:29:29.570Z"
+   "updatedAt": "2026-08-27T12:10:55.912Z"
   },
   {
    "id": "696e3ca8bb2a772e0d0568d0",
@@ -587,7 +606,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23306McdonaldsPromos2023.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23306McdonaldsPromos2023.png",
    "createdAt": "2026-01-19T14:16:08.014Z",
-   "updatedAt": "2026-08-25T18:29:28.307Z"
+   "updatedAt": "2026-08-27T12:10:54.781Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568ce",
@@ -606,7 +625,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23266TrickOrTradeBoosterBundle2023.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23266TrickOrTradeBoosterBundle2023.png",
    "createdAt": "2026-01-19T14:16:07.898Z",
-   "updatedAt": "2026-08-25T18:29:28.391Z"
+   "updatedAt": "2026-08-27T12:10:54.900Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568cc",
@@ -625,7 +644,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23228SV03ObsidianFlames.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23228SV03ObsidianFlames.png",
    "createdAt": "2026-01-19T14:16:07.772Z",
-   "updatedAt": "2026-08-25T18:29:29.349Z"
+   "updatedAt": "2026-08-27T12:10:55.738Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568cb",
@@ -644,7 +663,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23120SV02PaldeaEvolved.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23120SV02PaldeaEvolved.png",
    "createdAt": "2026-01-19T14:16:07.716Z",
-   "updatedAt": "2026-08-25T18:29:29.493Z"
+   "updatedAt": "2026-08-27T12:10:55.838Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c7",
@@ -663,7 +682,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/22872SVScarletAndVioletPromoCards.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/22872SVScarletAndVioletPromoCards.png",
    "createdAt": "2026-01-19T14:16:07.480Z",
-   "updatedAt": "2026-08-25T18:20:13.035Z"
+   "updatedAt": "2026-08-27T12:00:55.558Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c8",
@@ -682,7 +701,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/22873SV01ScarletAndVioletBaseSet.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/22873SV01ScarletAndVioletBaseSet.png",
    "createdAt": "2026-01-19T14:16:07.540Z",
-   "updatedAt": "2026-08-25T18:29:29.684Z"
+   "updatedAt": "2026-08-27T12:10:55.982Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e2",
@@ -701,7 +720,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24382SVEScarletAndVioletEnergies.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24382SVEScarletAndVioletEnergies.png",
    "createdAt": "2026-01-19T14:16:09.113Z",
-   "updatedAt": "2026-08-25T18:20:05.744Z"
+   "updatedAt": "2026-08-27T12:00:48.374Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c5",
@@ -720,7 +739,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/17688SWSHCrownZenith.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/17688SWSHCrownZenith.png",
    "createdAt": "2026-01-19T14:16:07.362Z",
-   "updatedAt": "2026-08-25T18:29:30.180Z"
+   "updatedAt": "2026-08-27T12:10:56.628Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c6",
@@ -739,7 +758,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/17689SWSHCrownZenithGalarianGallery.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/17689SWSHCrownZenithGalarianGallery.png",
    "createdAt": "2026-01-19T14:16:07.421Z",
-   "updatedAt": "2026-08-25T18:20:08.345Z"
+   "updatedAt": "2026-08-27T12:00:50.992Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c9",
@@ -758,7 +777,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/22880PrizePackSeriesCards.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/22880PrizePackSeriesCards.png",
    "createdAt": "2026-01-19T14:16:07.595Z",
-   "updatedAt": "2026-08-25T18:20:46.867Z"
+   "updatedAt": "2026-08-27T12:01:31.520Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c1",
@@ -777,7 +796,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3170SWSH12SilverTempest.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3170SWSH12SilverTempest.png",
    "createdAt": "2026-01-19T14:16:07.126Z",
-   "updatedAt": "2026-08-25T18:29:29.748Z"
+   "updatedAt": "2026-08-27T12:10:56.254Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c4",
@@ -796,7 +815,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/17674SWSH12SilverTempestTrainerGallery.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/17674SWSH12SilverTempestTrainerGallery.png",
    "createdAt": "2026-01-19T14:16:07.308Z",
-   "updatedAt": "2026-08-25T18:20:07.636Z"
+   "updatedAt": "2026-08-27T12:00:50.279Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568bf",
@@ -815,7 +834,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3118SWSH11LostOrigin.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3118SWSH11LostOrigin.png",
    "createdAt": "2026-01-19T14:16:07.008Z",
-   "updatedAt": "2026-08-25T18:29:30.289Z"
+   "updatedAt": "2026-08-27T12:10:56.800Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c2",
@@ -834,7 +853,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3172SWSH11LostOriginTrainerGallery.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3172SWSH11LostOriginTrainerGallery.png",
    "createdAt": "2026-01-19T14:16:07.190Z",
-   "updatedAt": "2026-08-25T18:20:09.300Z"
+   "updatedAt": "2026-08-27T12:00:51.966Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c3",
@@ -853,7 +872,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3179TrickOrTradeBoosterBundle.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3179TrickOrTradeBoosterBundle.png",
    "createdAt": "2026-01-19T14:16:07.248Z",
-   "updatedAt": "2026-08-25T18:29:29.082Z"
+   "updatedAt": "2026-08-27T12:10:55.526Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568c0",
@@ -872,7 +891,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3150McdonaldsPromos2022.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3150McdonaldsPromos2022.png",
    "createdAt": "2026-01-19T14:16:07.067Z",
-   "updatedAt": "2026-08-25T18:29:29.212Z"
+   "updatedAt": "2026-08-27T12:10:55.649Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568bc",
@@ -891,7 +910,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3064PokemonGo.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3064PokemonGo.png",
    "createdAt": "2026-01-19T14:16:06.835Z",
-   "updatedAt": "2026-08-25T18:29:30.711Z"
+   "updatedAt": "2026-08-27T12:10:57.140Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568ba",
@@ -910,7 +929,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3040SWSH10AstralRadiance.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3040SWSH10AstralRadiance.png",
    "createdAt": "2026-01-19T14:16:06.714Z",
-   "updatedAt": "2026-08-25T18:29:30.433Z"
+   "updatedAt": "2026-08-27T12:10:56.777Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568bd",
@@ -929,7 +948,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3068SWSH10AstralRadianceTrainerGallery.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3068SWSH10AstralRadianceTrainerGallery.png",
    "createdAt": "2026-01-19T14:16:06.893Z",
-   "updatedAt": "2026-08-25T18:20:12.008Z"
+   "updatedAt": "2026-08-27T12:00:54.553Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568bb",
@@ -948,7 +967,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3051BattleAcademy2022.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3051BattleAcademy2022.png",
    "createdAt": "2026-01-19T14:16:06.774Z",
-   "updatedAt": "2026-08-25T18:29:29.571Z"
+   "updatedAt": "2026-08-27T12:10:55.798Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b8",
@@ -967,7 +986,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2948SWSH09BrilliantStars.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2948SWSH09BrilliantStars.png",
    "createdAt": "2026-01-19T14:16:06.585Z",
-   "updatedAt": "2026-08-25T18:29:30.499Z"
+   "updatedAt": "2026-08-27T12:10:56.850Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b9",
@@ -986,7 +1005,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3020SWSH09BrilliantStarsTrainerGallery.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3020SWSH09BrilliantStarsTrainerGallery.png",
    "createdAt": "2026-01-19T14:16:06.652Z",
-   "updatedAt": "2026-08-25T18:20:14.980Z"
+   "updatedAt": "2026-08-27T12:00:57.457Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b6",
@@ -1005,7 +1024,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2906SWSH08FusionStrike.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2906SWSH08FusionStrike.png",
    "createdAt": "2026-01-19T14:16:06.467Z",
-   "updatedAt": "2026-08-25T18:29:30.717Z"
+   "updatedAt": "2026-08-27T12:10:57.020Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b5",
@@ -1024,7 +1043,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2867Celebrations.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2867Celebrations.png",
    "createdAt": "2026-01-19T14:16:06.403Z",
-   "updatedAt": "2026-08-25T18:29:30.994Z"
+   "updatedAt": "2026-08-27T12:10:57.274Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b7",
@@ -1043,7 +1062,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2931CelebrationsClassicCollection.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2931CelebrationsClassicCollection.png",
    "createdAt": "2026-01-19T14:16:06.525Z",
-   "updatedAt": "2026-08-25T18:20:16.908Z"
+   "updatedAt": "2026-08-27T12:00:58.925Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b4",
@@ -1062,7 +1081,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2848SWSH07EvolvingSkies.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2848SWSH07EvolvingSkies.png",
    "createdAt": "2026-01-19T14:16:06.340Z",
-   "updatedAt": "2026-08-25T18:29:30.707Z"
+   "updatedAt": "2026-08-27T12:10:57.097Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b3",
@@ -1081,7 +1100,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2807SWSH06ChillingReign.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2807SWSH06ChillingReign.png",
    "createdAt": "2026-01-19T14:16:06.279Z",
-   "updatedAt": "2026-08-25T18:29:30.739Z"
+   "updatedAt": "2026-08-27T12:10:57.031Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568af",
@@ -1100,7 +1119,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2765SWSH05BattleStyles.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2765SWSH05BattleStyles.png",
    "createdAt": "2026-01-19T14:16:06.038Z",
-   "updatedAt": "2026-08-25T18:29:30.876Z"
+   "updatedAt": "2026-08-27T12:10:57.340Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568ae",
@@ -1119,7 +1138,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2754ShiningFates.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2754ShiningFates.png",
    "createdAt": "2026-01-19T14:16:05.975Z",
-   "updatedAt": "2026-08-25T18:29:31.357Z"
+   "updatedAt": "2026-08-27T12:10:57.782Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b1",
@@ -1138,7 +1157,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2781ShiningFatesShinyVault.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2781ShiningFatesShinyVault.png",
    "createdAt": "2026-01-19T14:16:06.158Z",
-   "updatedAt": "2026-08-25T18:20:24.853Z"
+   "updatedAt": "2026-08-27T12:01:07.484Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b2",
@@ -1157,7 +1176,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2782Mcdonalds25THAnniversaryPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2782Mcdonalds25THAnniversaryPromos.png",
    "createdAt": "2026-01-19T14:16:06.215Z",
-   "updatedAt": "2026-08-25T18:29:30.424Z"
+   "updatedAt": "2026-08-27T12:10:56.914Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568ad",
@@ -1176,7 +1195,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2701SWSH04VividVoltage.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2701SWSH04VividVoltage.png",
    "createdAt": "2026-01-19T14:16:05.911Z",
-   "updatedAt": "2026-08-25T18:29:31.493Z"
+   "updatedAt": "2026-08-27T12:10:57.844Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568ab",
@@ -1195,7 +1214,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2685ChampionsPath.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2685ChampionsPath.png",
    "createdAt": "2026-01-19T14:16:05.788Z",
-   "updatedAt": "2026-08-25T18:29:31.120Z"
+   "updatedAt": "2026-08-27T12:10:57.490Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568aa",
@@ -1214,7 +1233,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2675SWSH03DarknessAblaze.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2675SWSH03DarknessAblaze.png",
    "createdAt": "2026-01-19T14:16:05.725Z",
-   "updatedAt": "2026-08-25T18:29:31.498Z"
+   "updatedAt": "2026-08-27T12:10:57.940Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568ac",
@@ -1233,7 +1252,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2686BattleAcademy.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2686BattleAcademy.png",
    "createdAt": "2026-01-19T14:16:05.853Z",
-   "updatedAt": "2026-08-25T18:29:30.861Z"
+   "updatedAt": "2026-08-27T12:10:57.130Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a9",
@@ -1252,7 +1271,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2626SWSH02RebelClash.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2626SWSH02RebelClash.png",
    "createdAt": "2026-01-19T14:16:05.668Z",
-   "updatedAt": "2026-08-25T18:29:31.615Z"
+   "updatedAt": "2026-08-27T12:10:57.897Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a7",
@@ -1271,7 +1290,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2585SWSH01SwordAndShieldBaseSet.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2585SWSH01SwordAndShieldBaseSet.png",
    "createdAt": "2026-01-19T14:16:05.543Z",
-   "updatedAt": "2026-08-25T18:29:31.944Z"
+   "updatedAt": "2026-08-27T12:10:58.303Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a5",
@@ -1290,7 +1309,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2545SWSHSwordAndShieldPromoCards.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2545SWSHSwordAndShieldPromoCards.png",
    "createdAt": "2026-01-19T14:16:05.428Z",
-   "updatedAt": "2026-08-25T18:20:45.525Z"
+   "updatedAt": "2026-08-27T12:01:26.736Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a4",
@@ -1309,7 +1328,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2534SMCosmicEclipse.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2534SMCosmicEclipse.png",
    "createdAt": "2026-01-19T14:16:05.369Z",
-   "updatedAt": "2026-08-25T18:29:31.318Z"
+   "updatedAt": "2026-08-27T12:10:57.682Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a6",
@@ -1328,7 +1347,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2555McdonaldsPromos2019.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2555McdonaldsPromos2019.png",
    "createdAt": "2026-01-19T14:16:05.488Z",
-   "updatedAt": "2026-08-25T18:20:30.417Z"
+   "updatedAt": "2026-08-27T12:01:12.355Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a3",
@@ -1347,7 +1366,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2480HiddenFates.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2480HiddenFates.png",
    "createdAt": "2026-01-19T14:16:05.309Z",
-   "updatedAt": "2026-08-25T18:29:31.685Z"
+   "updatedAt": "2026-08-27T12:10:57.916Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a8",
@@ -1366,7 +1385,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2594HiddenFatesShinyVault.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2594HiddenFatesShinyVault.png",
    "createdAt": "2026-01-19T14:16:05.604Z",
-   "updatedAt": "2026-08-25T18:20:35.253Z"
+   "updatedAt": "2026-08-27T12:01:17.074Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a2",
@@ -1385,7 +1404,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2464SMUnifiedMinds.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2464SMUnifiedMinds.png",
    "createdAt": "2026-01-19T14:16:05.251Z",
-   "updatedAt": "2026-08-25T18:29:31.597Z"
+   "updatedAt": "2026-08-27T12:10:57.952Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a1",
@@ -1404,7 +1423,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2420SMUnbrokenBonds.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2420SMUnbrokenBonds.png",
    "createdAt": "2026-01-19T14:16:05.196Z",
-   "updatedAt": "2026-08-25T18:29:31.803Z"
+   "updatedAt": "2026-08-27T12:10:58.114Z"
   },
   {
    "id": "696e3ca5bb2a772e0d0568a0",
@@ -1423,7 +1442,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2409DetectivePikachu.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2409DetectivePikachu.png",
    "createdAt": "2026-01-19T14:16:05.140Z",
-   "updatedAt": "2026-08-25T18:29:31.713Z"
+   "updatedAt": "2026-08-27T12:10:58.072Z"
   },
   {
    "id": "696e3ca5bb2a772e0d05689f",
@@ -1442,7 +1461,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2377SMTeamUp.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2377SMTeamUp.png",
    "createdAt": "2026-01-19T14:16:05.076Z",
-   "updatedAt": "2026-08-25T18:29:32.215Z"
+   "updatedAt": "2026-08-27T12:10:58.567Z"
   },
   {
    "id": "696e3ca4bb2a772e0d05689b",
@@ -1461,7 +1480,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2328SMLostThunder.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2328SMLostThunder.png",
    "createdAt": "2026-01-19T14:16:04.821Z",
-   "updatedAt": "2026-08-25T18:29:31.785Z"
+   "updatedAt": "2026-08-27T12:10:58.144Z"
   },
   {
    "id": "696e3ca4bb2a772e0d05689d",
@@ -1480,7 +1499,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2364McdonaldsPromos2018.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2364McdonaldsPromos2018.png",
    "createdAt": "2026-01-19T14:16:04.943Z",
-   "updatedAt": "2026-08-25T18:20:36.095Z"
+   "updatedAt": "2026-08-27T12:01:17.979Z"
   },
   {
    "id": "696e3ca4bb2a772e0d05689a",
@@ -1499,7 +1518,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2295DragonMajesty.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2295DragonMajesty.png",
    "createdAt": "2026-01-19T14:16:04.759Z",
-   "updatedAt": "2026-08-25T18:29:31.766Z"
+   "updatedAt": "2026-08-27T12:10:58.098Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056897",
@@ -1518,7 +1537,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2278SMCelestialStorm.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2278SMCelestialStorm.png",
    "createdAt": "2026-01-19T14:16:04.567Z",
-   "updatedAt": "2026-08-25T18:29:32.138Z"
+   "updatedAt": "2026-08-27T12:10:58.601Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056898",
@@ -1527,7 +1546,7 @@
    "name": "World Championship Decks",
    "series": "Other",
    "releaseDate": "2018-07-01T00:00:00.000Z",
-   "cardCount": 1940,
+   "cardCount": 1931,
    "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=World%20Championship%20Decks",
    "hasPriceGuide": true,
    "noPriceGuideReason": null,
@@ -1537,7 +1556,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2282WorldChampionshipDecks.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2282WorldChampionshipDecks.png",
    "createdAt": "2026-01-19T14:16:04.630Z",
-   "updatedAt": "2026-08-25T18:29:32.795Z"
+   "updatedAt": "2026-08-27T12:10:59.059Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056895",
@@ -1556,7 +1575,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2209SMForbiddenLight.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2209SMForbiddenLight.png",
    "createdAt": "2026-01-19T14:16:04.452Z",
-   "updatedAt": "2026-08-25T18:29:32.313Z"
+   "updatedAt": "2026-08-27T12:10:58.602Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056894",
@@ -1575,7 +1594,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2208SMTrainerKitAlolanSandslashAndAlolanNinetales.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2208SMTrainerKitAlolanSandslashAndAlolanNinetales.png",
    "createdAt": "2026-01-19T14:16:04.394Z",
-   "updatedAt": "2026-08-25T18:29:31.850Z"
+   "updatedAt": "2026-08-27T12:10:58.116Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056892",
@@ -1594,7 +1613,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2178SMUltraPrism.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2178SMUltraPrism.png",
    "createdAt": "2026-01-19T14:16:04.277Z",
-   "updatedAt": "2026-08-25T18:29:32.461Z"
+   "updatedAt": "2026-08-27T12:10:58.789Z"
   },
   {
    "id": "696e3ca4bb2a772e0d05688f",
@@ -1613,7 +1632,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2148McdonaldsPromos2017.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2148McdonaldsPromos2017.png",
    "createdAt": "2026-01-19T14:16:04.102Z",
-   "updatedAt": "2026-08-25T18:20:45.603Z"
+   "updatedAt": "2026-08-27T12:01:27.693Z"
   },
   {
    "id": "696e3ca4bb2a772e0d05688e",
@@ -1632,7 +1651,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2071SMCrimsonInvasion.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2071SMCrimsonInvasion.png",
    "createdAt": "2026-01-19T14:16:04.041Z",
-   "updatedAt": "2026-08-25T18:29:32.558Z"
+   "updatedAt": "2026-08-27T12:10:58.845Z"
   },
   {
    "id": "696e3ca3bb2a772e0d05688c",
@@ -1651,7 +1670,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2054ShiningLegends.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2054ShiningLegends.png",
    "createdAt": "2026-01-19T14:16:03.918Z",
-   "updatedAt": "2026-08-25T18:29:32.318Z"
+   "updatedAt": "2026-08-27T12:10:58.689Z"
   },
   {
    "id": "696e3ca3bb2a772e0d05688b",
@@ -1670,7 +1689,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1957SMBurningShadows.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1957SMBurningShadows.png",
    "createdAt": "2026-01-19T14:16:03.859Z",
-   "updatedAt": "2026-08-25T18:29:32.623Z"
+   "updatedAt": "2026-08-27T12:10:58.900Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056889",
@@ -1689,7 +1708,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1919SMGuardiansRising.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1919SMGuardiansRising.png",
    "createdAt": "2026-01-19T14:16:03.736Z",
-   "updatedAt": "2026-08-25T18:29:32.900Z"
+   "updatedAt": "2026-08-27T12:10:59.215Z"
   },
   {
    "id": "696e3ca3bb2a772e0d05688d",
@@ -1708,7 +1727,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2069SMTrainerKitLycanrocAndAlolanRaichu.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2069SMTrainerKitLycanrocAndAlolanRaichu.png",
    "createdAt": "2026-01-19T14:16:03.980Z",
-   "updatedAt": "2026-08-25T18:29:32.081Z"
+   "updatedAt": "2026-08-27T12:10:58.421Z"
   },
   {
    "id": "696e3ca7bb2a772e0d0568ca",
@@ -1717,7 +1736,7 @@
    "name": "Ash vs Team Rocket Deck Kit (JP Exclusive)",
    "series": "Base Set",
    "releaseDate": "2017-04-21T00:00:00.000Z",
-   "cardCount": 1,
+   "cardCount": 21,
    "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=Ash%20vs%20Team%20Rocket%20Deck%20Kit%20%28JP%20Exclusive%29",
    "hasPriceGuide": true,
    "noPriceGuideReason": null,
@@ -1727,7 +1746,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23095ASHVsTeamRocketDeckKitJpExclusive.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/23095ASHVsTeamRocketDeckKitJpExclusive.png",
    "createdAt": "2026-01-19T14:16:07.656Z",
-   "updatedAt": "2026-08-25T18:20:47.101Z"
+   "updatedAt": "2026-08-27T12:02:07.021Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056888",
@@ -1746,7 +1765,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1863SMBaseSet.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1863SMBaseSet.png",
    "createdAt": "2026-01-19T14:16:03.676Z",
-   "updatedAt": "2026-08-25T18:29:33.072Z"
+   "updatedAt": "2026-08-27T12:10:59.380Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056887",
@@ -1765,7 +1784,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1861SMPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1861SMPromos.png",
    "createdAt": "2026-01-19T14:16:03.615Z",
-   "updatedAt": "2026-08-25T18:21:03.736Z"
+   "updatedAt": "2026-08-27T12:01:45.797Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056885",
@@ -1784,7 +1803,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1842XYEvolutions.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1842XYEvolutions.png",
    "createdAt": "2026-01-19T14:16:03.495Z",
-   "updatedAt": "2026-08-25T18:29:33.122Z"
+   "updatedAt": "2026-08-27T12:10:59.659Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056884",
@@ -1803,7 +1822,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1840DECKExclusives.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1840DECKExclusives.png",
    "createdAt": "2026-01-19T14:16:03.437Z",
-   "updatedAt": "2026-08-25T18:21:13.265Z"
+   "updatedAt": "2026-08-27T12:01:56.385Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568be",
@@ -1822,7 +1841,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3087McdonaldsPromos2016.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/3087McdonaldsPromos2016.png",
    "createdAt": "2026-01-19T14:16:06.949Z",
-   "updatedAt": "2026-08-25T18:20:50.796Z"
+   "updatedAt": "2026-08-27T12:01:32.764Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056883",
@@ -1841,7 +1860,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1815XYSteamSiege.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1815XYSteamSiege.png",
    "createdAt": "2026-01-19T14:16:03.380Z",
-   "updatedAt": "2026-08-25T18:29:33.057Z"
+   "updatedAt": "2026-08-27T12:10:59.405Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056874",
@@ -1850,7 +1869,7 @@
    "name": "League & Championship Cards",
    "series": "Other",
    "releaseDate": "2016-06-01T00:00:00.000Z",
-   "cardCount": 627,
+   "cardCount": 624,
    "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=League%20%26%20Championship%20Cards",
    "hasPriceGuide": true,
    "noPriceGuideReason": null,
@@ -1860,7 +1879,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1539LeagueAndChampionshipCards.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1539LeagueAndChampionshipCards.png",
    "createdAt": "2026-01-19T14:16:02.478Z",
-   "updatedAt": "2026-08-25T18:21:21.240Z"
+   "updatedAt": "2026-08-27T12:02:04.868Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056881",
@@ -1879,7 +1898,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1780XYFatesCollide.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1780XYFatesCollide.png",
    "createdAt": "2026-01-19T14:16:03.262Z",
-   "updatedAt": "2026-08-25T18:29:32.893Z"
+   "updatedAt": "2026-08-27T12:10:59.163Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056882",
@@ -1898,7 +1917,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1796XYTrainerKitPikachuLibreAndSuicune.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1796XYTrainerKitPikachuLibreAndSuicune.png",
    "createdAt": "2026-01-19T14:16:03.320Z",
-   "updatedAt": "2026-08-25T18:20:57.841Z"
+   "updatedAt": "2026-08-27T12:01:39.961Z"
   },
   {
    "id": "696e3ca3bb2a772e0d05687f",
@@ -1917,7 +1936,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1728Generations.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1728Generations.png",
    "createdAt": "2026-01-19T14:16:03.141Z",
-   "updatedAt": "2026-08-25T18:29:33.100Z"
+   "updatedAt": "2026-08-27T12:10:59.422Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056880",
@@ -1936,7 +1955,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1729GenerationsRadiantCollection.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1729GenerationsRadiantCollection.png",
    "createdAt": "2026-01-19T14:16:03.202Z",
-   "updatedAt": "2026-08-25T18:20:56.718Z"
+   "updatedAt": "2026-08-27T12:01:39.515Z"
   },
   {
    "id": "696e3ca3bb2a772e0d05687e",
@@ -1955,7 +1974,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1701XYBreakpoint.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1701XYBreakpoint.png",
    "createdAt": "2026-01-19T14:16:03.080Z",
-   "updatedAt": "2026-08-25T18:29:32.901Z"
+   "updatedAt": "2026-08-27T12:10:59.178Z"
   },
   {
    "id": "696e3ca3bb2a772e0d05687d",
@@ -1974,7 +1993,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1694McdonaldsPromos2015.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1694McdonaldsPromos2015.png",
    "createdAt": "2026-01-19T14:16:03.019Z",
-   "updatedAt": "2026-08-25T18:20:57.481Z"
+   "updatedAt": "2026-08-27T12:01:39.690Z"
   },
   {
    "id": "696e3ca2bb2a772e0d05687a",
@@ -1993,7 +2012,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1661XYBreakthrough.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1661XYBreakthrough.png",
    "createdAt": "2026-01-19T14:16:02.842Z",
-   "updatedAt": "2026-08-25T18:29:33.095Z"
+   "updatedAt": "2026-08-27T12:10:59.282Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056879",
@@ -2012,7 +2031,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1576XYAncientOrigins.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1576XYAncientOrigins.png",
    "createdAt": "2026-01-19T14:16:02.782Z",
-   "updatedAt": "2026-08-25T18:29:32.899Z"
+   "updatedAt": "2026-08-27T12:10:59.132Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056871",
@@ -2031,7 +2050,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1534XYRoaringSkies.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1534XYRoaringSkies.png",
    "createdAt": "2026-01-19T14:16:02.292Z",
-   "updatedAt": "2026-08-25T18:29:33.244Z"
+   "updatedAt": "2026-08-27T12:10:59.416Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056872",
@@ -2050,7 +2069,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1536XYTrainerKitLatiasAndLatios.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1536XYTrainerKitLatiasAndLatios.png",
    "createdAt": "2026-01-19T14:16:02.355Z",
-   "updatedAt": "2026-08-25T18:21:03.180Z"
+   "updatedAt": "2026-08-27T12:01:45.800Z"
   },
   {
    "id": "696e3ca2bb2a772e0d05686e",
@@ -2059,7 +2078,7 @@
    "name": "Jumbo Cards",
    "series": "Other",
    "releaseDate": "2015-04-01T00:00:00.000Z",
-   "cardCount": 340,
+   "cardCount": 342,
    "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=Jumbo%20Cards",
    "hasPriceGuide": true,
    "noPriceGuideReason": null,
@@ -2069,7 +2088,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1528JumboCards.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1528JumboCards.png",
    "createdAt": "2026-01-19T14:16:02.098Z",
-   "updatedAt": "2026-08-25T18:21:16.673Z"
+   "updatedAt": "2026-08-27T12:02:00.085Z"
   },
   {
    "id": "696e3ca2bb2a772e0d05686d",
@@ -2088,7 +2107,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1525DoubleCrisis.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1525DoubleCrisis.png",
    "createdAt": "2026-01-19T14:16:02.039Z",
-   "updatedAt": "2026-08-25T18:29:33.139Z"
+   "updatedAt": "2026-08-27T12:10:59.279Z"
   },
   {
    "id": "696e3ca1bb2a772e0d05686b",
@@ -2107,7 +2126,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1509XYPrimalClash.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1509XYPrimalClash.png",
    "createdAt": "2026-01-19T14:16:01.919Z",
-   "updatedAt": "2026-08-25T18:29:33.289Z"
+   "updatedAt": "2026-08-27T12:10:59.473Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056870",
@@ -2126,7 +2145,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1533XYTrainerKitBisharpAndWigglytuff.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1533XYTrainerKitBisharpAndWigglytuff.png",
    "createdAt": "2026-01-19T14:16:02.227Z",
-   "updatedAt": "2026-08-25T18:21:06.259Z"
+   "updatedAt": "2026-08-27T12:01:48.797Z"
   },
   {
    "id": "696e3ca1bb2a772e0d05686a",
@@ -2145,7 +2164,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1494XYPhantomForces.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1494XYPhantomForces.png",
    "createdAt": "2026-01-19T14:16:01.860Z",
-   "updatedAt": "2026-08-25T18:29:33.212Z"
+   "updatedAt": "2026-08-27T12:10:59.399Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056869",
@@ -2164,7 +2183,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1481XYFuriousFists.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1481XYFuriousFists.png",
    "createdAt": "2026-01-19T14:16:01.803Z",
-   "updatedAt": "2026-08-25T18:29:33.583Z"
+   "updatedAt": "2026-08-27T12:10:59.729Z"
   },
   {
    "id": "696e3ca2bb2a772e0d05687c",
@@ -2183,7 +2202,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1692McdonaldsPromos2014.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1692McdonaldsPromos2014.png",
    "createdAt": "2026-01-19T14:16:02.962Z",
-   "updatedAt": "2026-08-25T18:21:05.148Z"
+   "updatedAt": "2026-08-27T12:01:47.119Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056867",
@@ -2202,7 +2221,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1464XYFlashfire.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1464XYFlashfire.png",
    "createdAt": "2026-01-19T14:16:01.687Z",
-   "updatedAt": "2026-08-25T18:29:33.422Z"
+   "updatedAt": "2026-08-27T12:10:59.546Z"
   },
   {
    "id": "696e3ca2bb2a772e0d05686f",
@@ -2221,7 +2240,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1532XYTrainerKitSylveonAndNoivern.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1532XYTrainerKitSylveonAndNoivern.png",
    "createdAt": "2026-01-19T14:16:02.159Z",
-   "updatedAt": "2026-08-25T18:21:08.756Z"
+   "updatedAt": "2026-08-27T12:01:51.255Z"
   },
   {
    "id": "696e3c9ebb2a772e0d05682f",
@@ -2240,7 +2259,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1387XYBaseSet.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1387XYBaseSet.png",
    "createdAt": "2026-01-19T14:15:58.336Z",
-   "updatedAt": "2026-08-25T18:29:33.472Z"
+   "updatedAt": "2026-08-27T12:10:59.602Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056863",
@@ -2259,7 +2278,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1451XYPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1451XYPromos.png",
    "createdAt": "2026-01-19T14:16:01.444Z",
-   "updatedAt": "2026-08-25T18:21:21.558Z"
+   "updatedAt": "2026-08-27T12:02:04.488Z"
   },
   {
    "id": "696e3ca1bb2a772e0d05686c",
@@ -2278,7 +2297,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1522KalosStarterSet.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1522KalosStarterSet.png",
    "createdAt": "2026-01-19T14:16:01.979Z",
-   "updatedAt": "2026-08-25T18:21:11.744Z"
+   "updatedAt": "2026-08-27T12:01:54.257Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056844",
@@ -2297,7 +2316,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1409LegendaryTreasures.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1409LegendaryTreasures.png",
    "createdAt": "2026-01-19T14:15:59.482Z",
-   "updatedAt": "2026-08-25T18:29:33.275Z"
+   "updatedAt": "2026-08-27T12:10:59.536Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056868",
@@ -2316,7 +2335,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1465LegendaryTreasuresRadiantCollection.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1465LegendaryTreasuresRadiantCollection.png",
    "createdAt": "2026-01-19T14:16:01.745Z",
-   "updatedAt": "2026-08-25T18:21:12.004Z"
+   "updatedAt": "2026-08-27T12:01:54.820Z"
   },
   {
    "id": "696e3c9dbb2a772e0d05681f",
@@ -2335,7 +2354,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1370PlasmaBlast.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1370PlasmaBlast.png",
    "createdAt": "2026-01-19T14:15:57.464Z",
-   "updatedAt": "2026-08-25T18:29:33.293Z"
+   "updatedAt": "2026-08-27T12:10:59.540Z"
   },
   {
    "id": "696e3c9ebb2a772e0d05682a",
@@ -2354,7 +2373,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1382PlasmaFreeze.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1382PlasmaFreeze.png",
    "createdAt": "2026-01-19T14:15:58.065Z",
-   "updatedAt": "2026-08-25T18:29:33.280Z"
+   "updatedAt": "2026-08-27T12:10:59.521Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056848",
@@ -2373,7 +2392,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1413PlasmaStorm.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1413PlasmaStorm.png",
    "createdAt": "2026-01-19T14:15:59.697Z",
-   "updatedAt": "2026-08-25T18:29:33.388Z"
+   "updatedAt": "2026-08-27T12:10:59.517Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056843",
@@ -2392,7 +2411,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1408BoundariesCrossed.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1408BoundariesCrossed.png",
    "createdAt": "2026-01-19T14:15:59.426Z",
-   "updatedAt": "2026-08-25T18:29:33.435Z"
+   "updatedAt": "2026-08-27T12:10:59.639Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056853",
@@ -2411,7 +2430,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1426DragonVault.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1426DragonVault.png",
    "createdAt": "2026-01-19T14:16:00.460Z",
-   "updatedAt": "2026-08-25T18:29:33.425Z"
+   "updatedAt": "2026-08-27T12:10:59.579Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056835",
@@ -2430,7 +2449,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1394DragonsExalted.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1394DragonsExalted.png",
    "createdAt": "2026-01-19T14:15:58.665Z",
-   "updatedAt": "2026-08-25T18:29:33.575Z"
+   "updatedAt": "2026-08-27T12:10:59.631Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056854",
@@ -2449,7 +2468,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1427McdonaldsPromos2012.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1427McdonaldsPromos2012.png",
    "createdAt": "2026-01-19T14:16:00.531Z",
-   "updatedAt": "2026-08-25T18:21:16.948Z"
+   "updatedAt": "2026-08-27T12:01:59.049Z"
   },
   {
    "id": "696e3c9ebb2a772e0d05682e",
@@ -2468,7 +2487,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1386DARKExplorers.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1386DARKExplorers.png",
    "createdAt": "2026-01-19T14:15:58.283Z",
-   "updatedAt": "2026-08-25T18:21:22.099Z"
+   "updatedAt": "2026-08-27T12:02:04.747Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056847",
@@ -2477,7 +2496,7 @@
    "name": "Next Destinies",
    "series": "Other",
    "releaseDate": "2012-02-08T00:00:00.000Z",
-   "cardCount": 104,
+   "cardCount": 103,
    "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=Next%20Destinies",
    "hasPriceGuide": true,
    "noPriceGuideReason": null,
@@ -2487,7 +2506,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1412NEXTDestinies.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1412NEXTDestinies.png",
    "createdAt": "2026-01-19T14:15:59.644Z",
-   "updatedAt": "2026-08-25T18:29:33.555Z"
+   "updatedAt": "2026-08-27T12:10:59.676Z"
   },
   {
    "id": "696e3c9ebb2a772e0d05682d",
@@ -2506,7 +2525,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1385NobleVictories.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1385NobleVictories.png",
    "createdAt": "2026-01-19T14:15:58.227Z",
-   "updatedAt": "2026-08-25T18:29:33.563Z"
+   "updatedAt": "2026-08-27T12:10:59.691Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056873",
@@ -2525,7 +2544,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1538BWTrainerKitExcadrillAndZoroark.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1538BWTrainerKitExcadrillAndZoroark.png",
    "createdAt": "2026-01-19T14:16:02.417Z",
-   "updatedAt": "2026-08-25T18:21:21.330Z"
+   "updatedAt": "2026-08-27T12:02:03.585Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056852",
@@ -2544,7 +2563,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1424EmergingPowers.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1424EmergingPowers.png",
    "createdAt": "2026-01-19T14:16:00.391Z",
-   "updatedAt": "2026-08-25T18:29:33.615Z"
+   "updatedAt": "2026-08-27T12:10:59.756Z"
   },
   {
    "id": "696e3c9fbb2a772e0d05683c",
@@ -2563,7 +2582,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1401McdonaldsPromos2011.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1401McdonaldsPromos2011.png",
    "createdAt": "2026-01-19T14:15:59.050Z",
-   "updatedAt": "2026-08-25T18:21:21.977Z"
+   "updatedAt": "2026-08-27T12:02:04.392Z"
   },
   {
    "id": "696e3c9ebb2a772e0d05683b",
@@ -2582,7 +2601,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1400BlackAndWhite.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1400BlackAndWhite.png",
    "createdAt": "2026-01-19T14:15:58.995Z",
-   "updatedAt": "2026-08-25T18:29:33.622Z"
+   "updatedAt": "2026-08-27T12:10:59.819Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056842",
@@ -2601,7 +2620,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1407BlackAndWhitePromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1407BlackAndWhitePromos.png",
    "createdAt": "2026-01-19T14:15:59.372Z",
-   "updatedAt": "2026-08-25T18:21:28.807Z"
+   "updatedAt": "2026-08-27T12:02:11.705Z"
   },
   {
    "id": "696e3c9fbb2a772e0d05684a",
@@ -2620,7 +2639,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1415CALLOfLegends.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1415CALLOfLegends.png",
    "createdAt": "2026-01-19T14:15:59.804Z",
-   "updatedAt": "2026-08-25T18:21:27.053Z"
+   "updatedAt": "2026-08-27T12:02:10.414Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056829",
@@ -2639,7 +2658,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1381Triumphant.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1381Triumphant.png",
    "createdAt": "2026-01-19T14:15:58.012Z",
-   "updatedAt": "2026-08-25T18:21:27.257Z"
+   "updatedAt": "2026-08-27T12:02:10.029Z"
   },
   {
    "id": "696e3c9fbb2a772e0d05683e",
@@ -2658,7 +2677,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1403Undaunted.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1403Undaunted.png",
    "createdAt": "2026-01-19T14:15:59.158Z",
-   "updatedAt": "2026-08-25T18:29:33.739Z"
+   "updatedAt": "2026-08-27T12:10:59.693Z"
   },
   {
    "id": "696e3c9ebb2a772e0d05683a",
@@ -2677,7 +2696,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1399Unleashed.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1399Unleashed.png",
    "createdAt": "2026-01-19T14:15:58.942Z",
-   "updatedAt": "2026-08-25T18:29:33.645Z"
+   "updatedAt": "2026-08-27T12:10:59.720Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056875",
@@ -2696,7 +2715,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1540HGSSTrainerKitGyaradosAndRaichu.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1540HGSSTrainerKitGyaradosAndRaichu.png",
    "createdAt": "2026-01-19T14:16:02.538Z",
-   "updatedAt": "2026-08-25T18:21:26.290Z"
+   "updatedAt": "2026-08-27T12:02:08.187Z"
   },
   {
    "id": "696e3c9fbb2a772e0d05683d",
@@ -2715,7 +2734,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1402HeartgoldSoulsilver.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1402HeartgoldSoulsilver.png",
    "createdAt": "2026-01-19T14:15:59.103Z",
-   "updatedAt": "2026-08-25T18:29:33.647Z"
+   "updatedAt": "2026-08-27T12:10:59.767Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056865",
@@ -2734,7 +2753,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1453HGSSPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1453HGSSPromos.png",
    "createdAt": "2026-01-19T14:16:01.564Z",
-   "updatedAt": "2026-08-25T18:21:26.255Z"
+   "updatedAt": "2026-08-27T12:02:08.878Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056859",
@@ -2753,7 +2772,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1433Rumble.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1433Rumble.png",
    "createdAt": "2026-01-19T14:16:00.842Z",
-   "updatedAt": "2026-08-25T18:21:27.179Z"
+   "updatedAt": "2026-08-27T12:02:09.154Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056832",
@@ -2772,7 +2791,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1391Arceus.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1391Arceus.png",
    "createdAt": "2026-01-19T14:15:58.495Z",
-   "updatedAt": "2026-08-25T18:29:33.637Z"
+   "updatedAt": "2026-08-27T12:10:59.751Z"
   },
   {
    "id": "696e3c9ebb2a772e0d05682c",
@@ -2791,7 +2810,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1384SupremeVictors.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1384SupremeVictors.png",
    "createdAt": "2026-01-19T14:15:58.174Z",
-   "updatedAt": "2026-08-25T18:29:33.725Z"
+   "updatedAt": "2026-08-27T12:10:59.777Z"
   },
   {
    "id": "696e3c9dbb2a772e0d05681c",
@@ -2810,7 +2829,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1367RisingRivals.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1367RisingRivals.png",
    "createdAt": "2026-01-19T14:15:57.295Z",
-   "updatedAt": "2026-08-25T18:29:33.783Z"
+   "updatedAt": "2026-08-27T12:10:59.791Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056841",
@@ -2829,7 +2848,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1406Platinum.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1406Platinum.png",
    "createdAt": "2026-01-19T14:15:59.318Z",
-   "updatedAt": "2026-08-25T18:29:33.774Z"
+   "updatedAt": "2026-08-27T12:10:59.845Z"
   },
   {
    "id": "696e3c9dbb2a772e0d05681e",
@@ -2848,7 +2867,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1369Stormfront.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1369Stormfront.png",
    "createdAt": "2026-01-19T14:15:57.406Z",
-   "updatedAt": "2026-08-25T18:21:32.658Z"
+   "updatedAt": "2026-08-27T12:02:16.216Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056890",
@@ -2867,7 +2886,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2155CountdownCalendarPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2155CountdownCalendarPromos.png",
    "createdAt": "2026-01-19T14:16:04.159Z",
-   "updatedAt": "2026-08-25T18:21:28.629Z"
+   "updatedAt": "2026-08-27T12:02:11.708Z"
   },
   {
    "id": "696e3c9fbb2a772e0d05684c",
@@ -2886,7 +2905,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1417LegendsAwakened.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1417LegendsAwakened.png",
    "createdAt": "2026-01-19T14:15:59.920Z",
-   "updatedAt": "2026-08-25T18:29:33.761Z"
+   "updatedAt": "2026-08-27T12:10:59.808Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056831",
@@ -2905,7 +2924,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1390MajesticDawn.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1390MajesticDawn.png",
    "createdAt": "2026-01-19T14:15:58.442Z",
-   "updatedAt": "2026-08-25T18:29:33.796Z"
+   "updatedAt": "2026-08-27T12:10:59.835Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056840",
@@ -2924,7 +2943,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1405GreatEncounters.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1405GreatEncounters.png",
    "createdAt": "2026-01-19T14:15:59.264Z",
-   "updatedAt": "2026-08-25T18:29:33.808Z"
+   "updatedAt": "2026-08-27T12:10:59.840Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056828",
@@ -2943,7 +2962,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1380SecretWonders.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1380SecretWonders.png",
    "createdAt": "2026-01-19T14:15:57.958Z",
-   "updatedAt": "2026-08-25T18:29:33.813Z"
+   "updatedAt": "2026-08-27T12:10:59.881Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056817",
@@ -2962,7 +2981,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/609DPTrainingKit1Blue.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/609DPTrainingKit1Blue.png",
    "createdAt": "2026-01-19T14:15:57.024Z",
-   "updatedAt": "2026-08-25T18:21:31.934Z"
+   "updatedAt": "2026-08-27T12:02:14.804Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056818",
@@ -2981,7 +3000,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/610DPTrainingKit1Gold.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/610DPTrainingKit1Gold.png",
    "createdAt": "2026-01-19T14:15:57.079Z",
-   "updatedAt": "2026-08-25T18:21:32.129Z"
+   "updatedAt": "2026-08-27T12:02:14.996Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056876",
@@ -3000,7 +3019,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1541DPTrainerKitManaphyAndLucario.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1541DPTrainerKitManaphyAndLucario.png",
    "createdAt": "2026-01-19T14:16:02.597Z",
-   "updatedAt": "2026-08-25T18:21:33.366Z"
+   "updatedAt": "2026-08-27T12:02:16.233Z"
   },
   {
    "id": "696e3c9dbb2a772e0d05681d",
@@ -3019,7 +3038,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1368MysteriousTreasures.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1368MysteriousTreasures.png",
    "createdAt": "2026-01-19T14:15:57.350Z",
-   "updatedAt": "2026-08-25T18:29:33.979Z"
+   "updatedAt": "2026-08-27T12:10:59.948Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056857",
@@ -3038,7 +3057,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1430DiamondAndPearl.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1430DiamondAndPearl.png",
    "createdAt": "2026-01-19T14:16:00.718Z",
-   "updatedAt": "2026-08-25T18:29:33.807Z"
+   "updatedAt": "2026-08-27T12:10:59.884Z"
   },
   {
    "id": "696e3ca0bb2a772e0d05684f",
@@ -3057,7 +3076,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1421DiamondAndPearlPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1421DiamondAndPearlPromos.png",
    "createdAt": "2026-01-19T14:16:00.130Z",
-   "updatedAt": "2026-08-25T18:21:36.642Z"
+   "updatedAt": "2026-08-27T12:02:19.698Z"
   },
   {
    "id": "696e3c9ebb2a772e0d05682b",
@@ -3076,7 +3095,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1383EXPowerKeepers.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1383EXPowerKeepers.png",
    "createdAt": "2026-01-19T14:15:58.120Z",
-   "updatedAt": "2026-08-25T18:29:33.951Z"
+   "updatedAt": "2026-08-27T12:10:59.890Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056846",
@@ -3095,7 +3114,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1411EXDragonFrontiers.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1411EXDragonFrontiers.png",
    "createdAt": "2026-01-19T14:15:59.588Z",
-   "updatedAt": "2026-08-25T18:21:39.094Z"
+   "updatedAt": "2026-08-27T12:02:21.916Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056836",
@@ -3114,7 +3133,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1395EXCrystalGuardians.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1395EXCrystalGuardians.png",
    "createdAt": "2026-01-19T14:15:58.719Z",
-   "updatedAt": "2026-08-25T18:21:39.702Z"
+   "updatedAt": "2026-08-27T12:02:22.274Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056827",
@@ -3133,7 +3152,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1379EXHolonPhantoms.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1379EXHolonPhantoms.png",
    "createdAt": "2026-01-19T14:15:57.906Z",
-   "updatedAt": "2026-08-25T18:29:34.054Z"
+   "updatedAt": "2026-08-27T12:10:59.908Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056826",
@@ -3152,7 +3171,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1378EXLegendMaker.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1378EXLegendMaker.png",
    "createdAt": "2026-01-19T14:15:57.852Z",
-   "updatedAt": "2026-08-25T18:21:41.313Z"
+   "updatedAt": "2026-08-27T12:02:23.610Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056856",
@@ -3171,7 +3190,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1429EXDeltaSpecies.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1429EXDeltaSpecies.png",
    "createdAt": "2026-01-19T14:16:00.658Z",
-   "updatedAt": "2026-08-25T18:21:43.536Z"
+   "updatedAt": "2026-08-27T12:02:26.245Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056839",
@@ -3190,7 +3209,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1398EXUnseenForces.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1398EXUnseenForces.png",
    "createdAt": "2026-01-19T14:15:58.889Z",
-   "updatedAt": "2026-08-25T18:21:45.004Z"
+   "updatedAt": "2026-08-27T12:02:27.094Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056845",
@@ -3209,7 +3228,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1410EXEmerald.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1410EXEmerald.png",
    "createdAt": "2026-01-19T14:15:59.536Z",
-   "updatedAt": "2026-08-25T18:29:34.139Z"
+   "updatedAt": "2026-08-27T12:11:00.015Z"
   },
   {
    "id": "696e3c9fbb2a772e0d05683f",
@@ -3228,7 +3247,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1404EXDeoxys.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1404EXDeoxys.png",
    "createdAt": "2026-01-19T14:15:59.212Z",
-   "updatedAt": "2026-08-25T18:21:44.592Z"
+   "updatedAt": "2026-08-27T12:02:27.820Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056855",
@@ -3247,7 +3266,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1428EXTeamRocketReturns.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1428EXTeamRocketReturns.png",
    "createdAt": "2026-01-19T14:16:00.595Z",
-   "updatedAt": "2026-08-25T18:21:44.824Z"
+   "updatedAt": "2026-08-27T12:02:28.023Z"
   },
   {
    "id": "696e3ca3bb2a772e0d056886",
@@ -3266,7 +3285,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1853EXBattleStadium.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1853EXBattleStadium.png",
    "createdAt": "2026-01-19T14:16:03.556Z",
-   "updatedAt": "2026-08-25T18:21:42.276Z"
+   "updatedAt": "2026-08-27T12:02:25.006Z"
   },
   {
    "id": "696e3ca0bb2a772e0d05684e",
@@ -3285,7 +3304,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1419EXFireredAndLeafgreen.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1419EXFireredAndLeafgreen.png",
    "createdAt": "2026-01-19T14:16:00.066Z",
-   "updatedAt": "2026-08-25T18:29:33.954Z"
+   "updatedAt": "2026-08-27T12:10:59.941Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056896",
@@ -3304,7 +3323,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2214KIDSWbPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2214KIDSWbPromos.png",
    "createdAt": "2026-01-19T14:16:04.509Z",
-   "updatedAt": "2026-08-25T18:21:41.802Z"
+   "updatedAt": "2026-08-27T12:02:23.329Z"
   },
   {
    "id": "696e3c9fbb2a772e0d05684b",
@@ -3323,7 +3342,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1416EXHiddenLegends.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1416EXHiddenLegends.png",
    "createdAt": "2026-01-19T14:15:59.862Z",
-   "updatedAt": "2026-08-25T18:21:46.922Z"
+   "updatedAt": "2026-08-27T12:02:29.145Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056825",
@@ -3342,7 +3361,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1377EXTeamMagmaVsTeamAqua.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1377EXTeamMagmaVsTeamAqua.png",
    "createdAt": "2026-01-19T14:15:57.799Z",
-   "updatedAt": "2026-08-25T18:21:46.870Z"
+   "updatedAt": "2026-08-27T12:02:28.658Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056824",
@@ -3361,7 +3380,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1376EXDragon.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1376EXDragon.png",
    "createdAt": "2026-01-19T14:15:57.743Z",
-   "updatedAt": "2026-08-25T18:21:47.541Z"
+   "updatedAt": "2026-08-27T12:02:30.167Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056833",
@@ -3380,7 +3399,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1392EXSandstorm.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1392EXSandstorm.png",
    "createdAt": "2026-01-19T14:15:58.549Z",
-   "updatedAt": "2026-08-25T18:21:48.518Z"
+   "updatedAt": "2026-08-27T12:02:31.500Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056834",
@@ -3399,7 +3418,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1393EXRubyAndSapphire.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1393EXRubyAndSapphire.png",
    "createdAt": "2026-01-19T14:15:58.605Z",
-   "updatedAt": "2026-08-25T18:21:49.556Z"
+   "updatedAt": "2026-08-27T12:02:32.674Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056820",
@@ -3418,7 +3437,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1372Skyridge.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1372Skyridge.png",
    "createdAt": "2026-01-19T14:15:57.517Z",
-   "updatedAt": "2026-08-25T18:21:53.122Z"
+   "updatedAt": "2026-08-27T12:02:36.313Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056838",
@@ -3437,7 +3456,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1397Aquapolis.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1397Aquapolis.png",
    "createdAt": "2026-01-19T14:15:58.835Z",
-   "updatedAt": "2026-08-25T18:21:54.537Z"
+   "updatedAt": "2026-08-27T12:02:37.053Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056866",
@@ -3456,7 +3475,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1455BESTOfPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1455BESTOfPromos.png",
    "createdAt": "2026-01-19T14:16:01.627Z",
-   "updatedAt": "2026-08-25T18:21:45.948Z"
+   "updatedAt": "2026-08-27T12:02:29.021Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056823",
@@ -3475,7 +3494,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1375Expedition.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1375Expedition.png",
    "createdAt": "2026-01-19T14:15:57.676Z",
-   "updatedAt": "2026-08-25T18:29:33.958Z"
+   "updatedAt": "2026-08-27T12:10:59.967Z"
   },
   {
    "id": "696e3ca9bb2a772e0d0568e6",
@@ -3494,7 +3513,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24493EReaderSampleCards.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/24493EReaderSampleCards.png",
    "createdAt": "2026-01-19T14:16:09.354Z",
-   "updatedAt": "2026-08-25T18:21:46.467Z"
+   "updatedAt": "2026-08-27T12:02:29.046Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056822",
@@ -3513,7 +3532,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1374LegendaryCollection.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1374LegendaryCollection.png",
    "createdAt": "2026-01-19T14:15:57.621Z",
-   "updatedAt": "2026-08-25T18:21:52.130Z"
+   "updatedAt": "2026-08-27T12:02:34.633Z"
   },
   {
    "id": "696e3ca1bb2a772e0d05685f",
@@ -3532,7 +3551,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1444NEODestiny.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1444NEODestiny.png",
    "createdAt": "2026-01-19T14:16:01.201Z",
-   "updatedAt": "2026-08-25T18:29:33.992Z"
+   "updatedAt": "2026-08-27T12:10:59.949Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056830",
@@ -3551,7 +3570,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1389NEORevelation.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1389NEORevelation.png",
    "createdAt": "2026-01-19T14:15:58.389Z",
-   "updatedAt": "2026-08-25T18:21:50.338Z"
+   "updatedAt": "2026-08-27T12:02:32.812Z"
   },
   {
    "id": "696e3c9dbb2a772e0d05681b",
@@ -3570,7 +3589,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/648SouthernIslands.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/648SouthernIslands.png",
    "createdAt": "2026-01-19T14:15:57.241Z",
-   "updatedAt": "2026-08-25T18:29:34.126Z"
+   "updatedAt": "2026-08-27T12:10:59.956Z"
   },
   {
    "id": "696e3ca0bb2a772e0d05685a",
@@ -3589,7 +3608,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1434NEODiscovery.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1434NEODiscovery.png",
    "createdAt": "2026-01-19T14:16:00.903Z",
-   "updatedAt": "2026-08-25T18:29:34.017Z"
+   "updatedAt": "2026-08-27T12:11:00.035Z"
   },
   {
    "id": "696e3c9ebb2a772e0d056837",
@@ -3608,7 +3627,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1396NEOGenesis.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1396NEOGenesis.png",
    "createdAt": "2026-01-19T14:15:58.775Z",
-   "updatedAt": "2026-08-25T18:29:34.102Z"
+   "updatedAt": "2026-08-27T12:10:59.996Z"
   },
   {
    "id": "696e3ca1bb2a772e0d05685c",
@@ -3627,7 +3646,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1440GYMChallenge.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1440GYMChallenge.png",
    "createdAt": "2026-01-19T14:16:01.021Z",
-   "updatedAt": "2026-08-25T18:29:34.104Z"
+   "updatedAt": "2026-08-27T12:11:00.008Z"
   },
   {
    "id": "696e3ca1bb2a772e0d05685d",
@@ -3646,7 +3665,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1441GYMHeroes.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1441GYMHeroes.png",
    "createdAt": "2026-01-19T14:16:01.082Z",
-   "updatedAt": "2026-08-25T18:29:34.225Z"
+   "updatedAt": "2026-08-27T12:11:00.093Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056821",
@@ -3665,7 +3684,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1373TEAMRocket.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1373TEAMRocket.png",
    "createdAt": "2026-01-19T14:15:57.567Z",
-   "updatedAt": "2026-08-25T18:29:34.145Z"
+   "updatedAt": "2026-08-27T12:11:00.098Z"
   },
   {
    "id": "696e3c9cbb2a772e0d056816",
@@ -3684,7 +3703,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/605BASESet2.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/605BASESet2.png",
    "createdAt": "2026-01-19T14:15:56.970Z",
-   "updatedAt": "2026-08-25T18:29:34.359Z"
+   "updatedAt": "2026-08-27T12:11:00.277Z"
   },
   {
    "id": "696e3c9dbb2a772e0d056819",
@@ -3703,7 +3722,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/630Fossil.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/630Fossil.png",
    "createdAt": "2026-01-19T14:15:57.132Z",
-   "updatedAt": "2026-08-25T18:29:34.316Z"
+   "updatedAt": "2026-08-27T12:11:00.187Z"
   },
   {
    "id": "696e3c9fbb2a772e0d05684d",
@@ -3722,7 +3741,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1418WOTCPromo.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1418WOTCPromo.png",
    "createdAt": "2026-01-19T14:15:59.998Z",
-   "updatedAt": "2026-08-25T18:21:56.736Z"
+   "updatedAt": "2026-08-27T12:02:39.882Z"
   },
   {
    "id": "696e3c9dbb2a772e0d05681a",
@@ -3741,7 +3760,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/635Jungle.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/635Jungle.png",
    "createdAt": "2026-01-19T14:15:57.185Z",
-   "updatedAt": "2026-08-25T18:29:34.360Z"
+   "updatedAt": "2026-08-27T12:11:00.199Z"
   },
   {
    "id": "696e3c9cbb2a772e0d056815",
@@ -3760,7 +3779,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/604BASESet.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/604BASESet.png",
    "createdAt": "2026-01-19T14:15:56.915Z",
-   "updatedAt": "2026-08-25T18:29:34.383Z"
+   "updatedAt": "2026-08-27T12:11:00.198Z"
   },
   {
    "id": "696e3ca2bb2a772e0d05687b",
@@ -3779,7 +3798,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1663BASESetShadowless.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1663BASESetShadowless.png",
    "createdAt": "2026-01-19T14:16:02.905Z",
-   "updatedAt": "2026-08-25T18:29:34.401Z"
+   "updatedAt": "2026-08-27T12:11:00.227Z"
   },
   {
    "id": "696e3c9fbb2a772e0d056849",
@@ -3797,7 +3816,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1414POPSeries7.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1414POPSeries7.png",
    "createdAt": "2026-01-19T14:15:59.750Z",
-   "updatedAt": "2026-08-25T18:29:34.313Z"
+   "updatedAt": "2026-08-27T12:11:00.107Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056850",
@@ -3815,7 +3834,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1422POPSeries1.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1422POPSeries1.png",
    "createdAt": "2026-01-19T14:16:00.206Z",
-   "updatedAt": "2026-08-25T18:29:34.280Z"
+   "updatedAt": "2026-08-27T12:11:00.119Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056851",
@@ -3823,7 +3842,7 @@
    "tcgPlayerNumericId": 1423,
    "name": "Nintendo Promos",
    "series": "Promo",
-   "cardCount": 95,
+   "cardCount": 96,
    "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=Nintendo%20Promos",
    "hasPriceGuide": true,
    "noPriceGuideReason": null,
@@ -3833,7 +3852,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1423NintendoPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1423NintendoPromos.png",
    "createdAt": "2026-01-19T14:16:00.310Z",
-   "updatedAt": "2026-08-25T18:22:00.807Z"
+   "updatedAt": "2026-08-27T12:02:43.890Z"
   },
   {
    "id": "696e3ca0bb2a772e0d056858",
@@ -3851,7 +3870,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1432POPSeries6.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1432POPSeries6.png",
    "createdAt": "2026-01-19T14:16:00.778Z",
-   "updatedAt": "2026-08-25T18:29:34.369Z"
+   "updatedAt": "2026-08-27T12:11:00.142Z"
   },
   {
    "id": "696e3ca0bb2a772e0d05685b",
@@ -3869,7 +3888,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1439POPSeries5.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1439POPSeries5.png",
    "createdAt": "2026-01-19T14:16:00.960Z",
-   "updatedAt": "2026-08-25T18:21:57.709Z"
+   "updatedAt": "2026-08-27T12:02:40.507Z"
   },
   {
    "id": "696e3ca1bb2a772e0d05685e",
@@ -3887,7 +3906,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1442POPSeries3.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1442POPSeries3.png",
    "createdAt": "2026-01-19T14:16:01.141Z",
-   "updatedAt": "2026-08-25T18:29:34.410Z"
+   "updatedAt": "2026-08-27T12:11:00.203Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056860",
@@ -3905,7 +3924,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1446POPSeries9.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1446POPSeries9.png",
    "createdAt": "2026-01-19T14:16:01.260Z",
-   "updatedAt": "2026-08-25T18:29:34.389Z"
+   "updatedAt": "2026-08-27T12:11:00.210Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056861",
@@ -3923,7 +3942,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1447POPSeries2.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1447POPSeries2.png",
    "createdAt": "2026-01-19T14:16:01.322Z",
-   "updatedAt": "2026-08-25T18:29:34.425Z"
+   "updatedAt": "2026-08-27T12:11:00.224Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056862",
@@ -3941,7 +3960,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1450POPSeries8.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1450POPSeries8.png",
    "createdAt": "2026-01-19T14:16:01.383Z",
-   "updatedAt": "2026-08-25T18:29:34.491Z"
+   "updatedAt": "2026-08-27T12:11:00.219Z"
   },
   {
    "id": "696e3ca1bb2a772e0d056864",
@@ -3959,7 +3978,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1452POPSeries4.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1452POPSeries4.png",
    "createdAt": "2026-01-19T14:16:01.505Z",
-   "updatedAt": "2026-08-25T18:29:34.490Z"
+   "updatedAt": "2026-08-27T12:11:00.259Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056877",
@@ -3977,7 +3996,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1542EXTrainerKit2PlusleAndMinun.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1542EXTrainerKit2PlusleAndMinun.png",
    "createdAt": "2026-01-19T14:16:02.659Z",
-   "updatedAt": "2026-08-25T18:21:59.257Z"
+   "updatedAt": "2026-08-27T12:02:42.214Z"
   },
   {
    "id": "696e3ca2bb2a772e0d056878",
@@ -3995,7 +4014,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1543EXTrainerKit1LatiasAndLatios.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1543EXTrainerKit1LatiasAndLatios.png",
    "createdAt": "2026-01-19T14:16:02.722Z",
-   "updatedAt": "2026-08-25T18:21:59.181Z"
+   "updatedAt": "2026-08-27T12:02:42.050Z"
   },
   {
    "id": "696e3ca3bb2a772e0d05688a",
@@ -4013,7 +4032,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1938AlternateArtPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/1938AlternateArtPromos.png",
    "createdAt": "2026-01-19T14:16:03.797Z",
-   "updatedAt": "2026-08-25T18:29:34.496Z"
+   "updatedAt": "2026-08-27T12:11:00.320Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056891",
@@ -4031,7 +4050,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2175BurgerKingPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2175BurgerKingPromos.png",
    "createdAt": "2026-01-19T14:16:04.219Z",
-   "updatedAt": "2026-08-25T18:21:59.677Z"
+   "updatedAt": "2026-08-27T12:02:42.620Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056893",
@@ -4049,7 +4068,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2205PikachuWorldCollectionPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2205PikachuWorldCollectionPromos.png",
    "createdAt": "2026-01-19T14:16:04.337Z",
-   "updatedAt": "2026-08-25T18:21:59.675Z"
+   "updatedAt": "2026-08-27T12:02:42.675Z"
   },
   {
    "id": "696e3ca4bb2a772e0d056899",
@@ -4067,7 +4086,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2289BlisterExclusives.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2289BlisterExclusives.png",
    "createdAt": "2026-01-19T14:16:04.693Z",
-   "updatedAt": "2026-08-25T18:22:05.946Z"
+   "updatedAt": "2026-08-27T12:02:48.996Z"
   },
   {
    "id": "696e3ca4bb2a772e0d05689c",
@@ -4085,7 +4104,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2332ProfessorProgramPromos.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2332ProfessorProgramPromos.png",
    "createdAt": "2026-01-19T14:16:04.885Z",
-   "updatedAt": "2026-08-25T18:22:02.636Z"
+   "updatedAt": "2026-08-27T12:02:44.867Z"
   },
   {
    "id": "696e3ca5bb2a772e0d05689e",
@@ -4093,7 +4112,7 @@
    "tcgPlayerNumericId": 2374,
    "name": "Miscellaneous Cards & Products",
    "series": "Other",
-   "cardCount": 793,
+   "cardCount": 791,
    "priceGuideUrl": "https://www.tcgplayer.com/search/product?productLineName=Pokemon&setName=Miscellaneous%20Cards%20%26%20Products",
    "hasPriceGuide": true,
    "noPriceGuideReason": null,
@@ -4103,7 +4122,7 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2374MiscellaneousCardsAndProducts.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2374MiscellaneousCardsAndProducts.png",
    "createdAt": "2026-01-19T14:16:05.013Z",
-   "updatedAt": "2026-08-25T18:29:55.225Z"
+   "updatedAt": "2026-08-27T12:11:21.903Z"
   },
   {
    "id": "696e3ca6bb2a772e0d0568b0",
@@ -4121,12 +4140,12 @@
    "imageCdnUrl800": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2776FirstPartnerPack.png",
    "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/set_icon/2776FirstPartnerPack.png",
    "createdAt": "2026-01-19T14:16:06.099Z",
-   "updatedAt": "2026-08-25T18:29:34.833Z"
+   "updatedAt": "2026-08-27T12:11:00.637Z"
   }
  ],
  "metadata": {
-  "total": 218,
-  "count": 218,
+  "total": 219,
+  "count": 219,
   "limit": 250,
   "offset": 0,
   "hasMore": false,
